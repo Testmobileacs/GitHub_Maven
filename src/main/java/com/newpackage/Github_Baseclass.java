@@ -34,7 +34,7 @@ public class Github_Baseclass {
 		URL url = new URL("http://0.0.0.0:4723/wd/hub");
 		driver = new AndroidDriver(url, dc);
 
-	}//sssssssssssss
+	}
 
 	public static void update() throws InterruptedException {
 
